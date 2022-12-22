@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buttbee", "Buttbee\Buttbee\Buttbee.csproj", "{A71110F8-471F-4C93-B728-26F4B9EE0CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buttkey", "Buttkey\Buttkey.csproj", "{09B53C5D-089A-434C-8DEE-D45B58B6E747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonLib", "DragonLib\DragonLib\DragonLib.csproj", "{2E2BECAD-BF0D-497C-BF23-6A0A5AEB8191}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A71110F8-471F-4C93-B728-26F4B9EE0CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71110F8-471F-4C93-B728-26F4B9EE0CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71110F8-471F-4C93-B728-26F4B9EE0CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71110F8-471F-4C93-B728-26F4B9EE0CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09B53C5D-089A-434C-8DEE-D45B58B6E747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B53C5D-089A-434C-8DEE-D45B58B6E747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B53C5D-089A-434C-8DEE-D45B58B6E747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B53C5D-089A-434C-8DEE-D45B58B6E747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2BECAD-BF0D-497C-BF23-6A0A5AEB8191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2BECAD-BF0D-497C-BF23-6A0A5AEB8191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2BECAD-BF0D-497C-BF23-6A0A5AEB8191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2BECAD-BF0D-497C-BF23-6A0A5AEB8191}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

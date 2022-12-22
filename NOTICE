@@ -1,0 +1,2 @@
+﻿This project uses Serilog for logging which is licensed under Apache-2.0 at the time of writing.
+You can view the license for this dependency here: https://github.com/serilog/serilog/blob/dev/LICENSE
