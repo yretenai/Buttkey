@@ -32,8 +32,8 @@ internal static class Program {
 internal class ButtplugRouter {
     public ButtplugRouter(ButtkeyFlags flags) {
         Flags = flags;
-        Misskey = new MisskeyStreamClient(flags.Host, flags.Logger) { Debug = true };
-        Buttplug = new ButtbeeClient(flags.ButtplugHost, flags.ButtplugPort, flags.Logger) { Debug = true };
+        Misskey = new MisskeyStreamClient(flags.Host, flags.Logger);
+        Buttplug = new ButtbeeClient(flags.ButtplugHost, flags.ButtplugPort, flags.Logger);
     }
 
     public ButtkeyFlags Flags { get; }
